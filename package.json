@@ -1,0 +1,23 @@
+{
+  "name": "test-bot",
+  "version": "0.1.5",
+  "description": "TestBot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": {
+    "name": "finnresulf"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "compromise": "^11.14.2",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "jimp": "^0.6.4",
+    "node-nlp": "^3.4.0"
+  }
+}
