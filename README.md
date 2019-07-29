@@ -22,4 +22,5 @@ Current pending requested features:
 
 Current known bugs:
   -$card <user> sometimes doesn't display the users card properly
+  -$game ttt (Tic Tac Toe) undecided bug or feature. When bot times out it will keep current game state and re-instate the board and its points.
   -To file a bug report post an issue to this github repo or go to the Fuzzy Satellite's repair-bay channel and file it there.
