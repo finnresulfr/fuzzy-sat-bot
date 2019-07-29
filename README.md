@@ -1,7 +1,7 @@
 This is a chatbot designed for The Fuzzy Satellite and is a work in progress(in beta).
 
 The Fuzzy Satellite bot is a fun bot designed to help The Fuzzy Satellite's
-station members from going crazy as they drift around Mars's orbit.
+station members from going crazy as they orbit around Mars.
 
 Current stable features:
   -$game seems to be stable and functional.
